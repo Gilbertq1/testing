@@ -738,24 +738,6 @@ background-color: #b38e4a;
     height: 120px;
     padding: 10px;
   }
-
-    /* Special Offers styles */
-    .special-offers {
-      padding: 20px 0;
-    }
-    .special-offers h2 {
-      font-size: 24px;
-    }
-    .offer-box {
-      width: 50%;
-      margin: 10px 20px;
-    }
-    .offer-info {
-      font-size: 14px;
-    }
-    .offer-info button {
-      padding: 5px 10px;
-    }
   
   /* Other styles */
   body {
@@ -807,24 +789,6 @@ background-color: #b38e4a;
     height: 180px;
     padding: 20px;
   }
-
-    /* Special Offers styles */
-    .special-offers {
-      padding: 30px 0;
-    }
-    .special-offers h2 {
-      font-size: 30px;
-    }
-    .offer-box {
-      width: 50%;
-      margin: 20px 40px;
-    }
-    .offer-info {
-      font-size: 16px;
-    }
-    .offer-info button {
-      padding: 10px 20px;
-    }
   
   /* Other styles */
   body {
@@ -870,24 +834,6 @@ background-color: #b38e4a;
     height: 220px;
     padding: 30px;
   }
-
-    .special-offers {
-      padding: 30px 0;
-    }
-    .special-offers h2 {
-      font-size: 30px;
-    }
-    .offer-box {
-      width: 50%;
-      margin: 20px 40px;
-    }
-    .offer-info {
-      font-size: 16px;
-    }
-    .offer-info button {
-      padding: 10px 20px;
-    }
-  
   
   /* Other styles */
   body {
