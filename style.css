@@ -747,7 +747,7 @@ background-color: #b38e4a;
       font-size: 24px;
     }
     .offer-box {
-      width: 100%;
+      width: 50%;
       margin: 10px 20px;
     }
     .offer-info {
@@ -816,7 +816,7 @@ background-color: #b38e4a;
       font-size: 30px;
     }
     .offer-box {
-      width: 80%;
+      width: 50%;
       margin: 20px 40px;
     }
     .offer-info {
