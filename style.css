@@ -870,6 +870,24 @@ background-color: #b38e4a;
     height: 220px;
     padding: 30px;
   }
+
+    .special-offers {
+      padding: 30px 0;
+    }
+    .special-offers h2 {
+      font-size: 30px;
+    }
+    .offer-box {
+      width: 50%;
+      margin: 20px 40px;
+    }
+    .offer-info {
+      font-size: 16px;
+    }
+    .offer-info button {
+      padding: 10px 20px;
+    }
+  
   
   /* Other styles */
   body {
