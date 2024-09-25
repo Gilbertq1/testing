@@ -742,6 +742,9 @@ background-color: #b38e4a;
   .special-offers .offer-box {
     flex-direction: column; /* Stack content vertically */
   }
+      .offer-box {
+    width: 100%;
+  }
 
   .offer-box img {
     border-radius: 20px 20px 0 0; /* Rounded corners only on top */
@@ -820,6 +823,10 @@ background-color: #b38e4a;
 
   .offer-info {
     padding: 10px; /* Reduced padding */
+  }
+
+    .offer-box {
+    width: calc(50% - 20px);
   }
 
   .offer-info p {
